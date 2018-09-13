@@ -1,0 +1,14 @@
+{
+   "name": "test",
+   "description": "Description for test.",
+   "type": "userCreated",
+   "manifest": {
+     "template_type": "Terraform",
+     "template_format": "HCL",
+     "template_provider": "Other"
+   },
+   "metadata": {
+     "displayName": "test",
+     "bullets": []
+   }
+ }
